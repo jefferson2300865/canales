@@ -1,0 +1,466 @@
+# EXTM3U
+ 
+#EXTINF: -1, Canal ecuavisa
+ 
+#EXTINF: -1, Canal Televisión Nacional de Chile http://www.tvn.cl Chile
+ 
+#EXTINF: -1, Canal Canal 13 http://www.canal13.cl Chile
+ 
+#EXTINF: -1, Canal Chilevisión http://www.chilevision.cl Chile
+ 
+ 
+#EXTINF: -1, Canal Megavisión http://www.megavision.cl Chile
+ 
+#EXTINF: -1, Canal TVN Señal Internacional http://www.tvchile.cl Chile
+ 
+#EXTINF: -1, Canal UCV Televisión http://www.ucvtv.cl Chile
+ 
+#EXTINF: -1, Canal TV Senado http://tv.senado.cl Chile
+ 
+#EXTINF: -1, Canal ABT http://www.abt.cl Chile
+ 
+#EXTINF: -1, Canal Diputados Televisión http://www.camara.cl/tv/tvmain.htm Chile
+ 
+#EXTINF: -1, Canal TN 24 Horas http://www.tn.com.ar Argentina
+ 
+#EXTINF: -1, Canal Crónica http://www.cronicatv.com.ar Argentina
+ 
+#EXTINF: -1, Canal Canal 7 http://www.canal7argentina.com.ar Argentina
+ 
+#EXTINF: -1, Canal América http://americatv.uolsinectis.com.ar Argentina
+ 
+#EXTINF: -1, Canal TELEFE http://www.telefe.com.ar Argentina
+ 
+#EXTINF: -1, Canal Infinito http://www.infinito.com Argentina
+ 
+#EXTINF: -1, Canal Rosario 3 http://www.rosario3.com Argentina
+ 
+#EXTINF: -1, Canal Canal 4 Monte Carlo http://www.canal4.com.uy Uruguay
+ 
+#EXTINF: -1, Canal Canal 10 http://www.canal10.com.uy Uruguay
+ 
+#EXTINF: -1, Canal Teledoce http://www.teledoce.com Uruguay
+ 
+#EXTINF: -1, Canal RBS TV http://www.clicrbs.com.br/rbstv Brasil
+ 
+#EXTINF: -1, Canal Rede Globo de Televesao http://www.redeglobo.globo.com Brasil
+ 
+#EXTINF: -1, Canal Central Nacional de Televisao http://www.cnt.com.br Brasil
+ 
+#EXTINF: -1, Canal Rede TV http://www.redetv.com.br Brasil
+ 
+#EXTINF: -1, Canal Rede Record http://www.rederecord.com.br Brasil
+ 
+#EXTINF: -1, Canal Rede Mulher http://www.redemulher.com.br Brasil
+ 
+#EXTINF: -1, Canal Sistema Brasileiro de Televisao http://www.sbt.com.br Brasil
+ 
+#EXTINF: -1, Canal TV Bahía http://tvbahia.ibahia.globo.com Brasil
+ 
+#EXTINF: -1, Canal Colombiana de Televisión http://www.coltevision.com Colombia
+ 
+#EXTINF: -1, Canal RCN Televisión http://www.canalrcn.com Colombia
+ 
+#EXTINF: -1, Canal ETV Telerama http://www.etvtelerama.com Ecuador
+ 
+#EXTINF: -1, Canal Gamavisión http://www.gamavision.com Ecuador
+ 
+#EXTINF: -1, Canal Telefuturo http://www.telefuturo.com.py Paraguay
+ 
+#EXTINF: -1, Canal Canal 13 http://13.se.com.py/index2.php Paraguay
+ 
+#EXTINF: -1, Canal América Televisión http://www.americatv.com.pe Perú
+ 
+#EXTINF: -1, Canal Andina TV http://www.atv.com.pe Perú
+ 
+#EXTINF: -1, Canal Frecuencia Latina http://www.frecuencialatina.com.pe Perú
+ 
+#EXTINF: -1, Canal Bolivisión http://www.bolivisiontv.com Bolivia
+ 
+#EXTINF: -1, Canal Red Unitel http://www.unitel.tv Bolivia
+ 
+#EXTINF: -1, Canal HBO - Olé http://www.hbo-ole.com Venezuela
+ 
+#EXTINF: -1, Canal Sony Entertainment Television http://www.canalsony.com Venezuela
+ 
+#EXTINF: -1, Canal Televen http://www.televen.com Venezuela
+ 
+#EXTINF: -1, Canal Venevisión http://www.venevision.net Venezuela
+ 
+#EXTINF: -1, Canal RCTV http://www.rctv.net Venezuela
+ 
+#EXTINF: -1, Canal Vale TV http://www.valetv.com Venezuela
+ 
+#EXTINF: -1, Canal Globovisión http://www.globovision.com Venezuela
+ 
+#EXTINF: -1, Canal Telecolor http://www.telecolor.com Venezuela
+ 
+#EXTINF: -1, Canal TRT http://www.trt-tv.com Venezuela
+ 
+#EXTINF: -1, Canal RPC TV http://www.rpctv.com Panamá
+ 
+#EXTINF: -1, Canal Telemetro http://www.telemetro.com Panamá
+ 
+#EXTINF: -1, Canal TVN Red 2 http://www.tvn-2.com Panamá
+ 
+#EXTINF: -1, Canal FETV Canal 5 http://www.fetv.org Panamá
+ 
+#EXTINF: -1, Canal Tu Universo Televisión http://www.tutv.puertorico.pr Puerto Rico
+ 
+#EXTINF: -1, Canal Televicentro http://www.televicentropr.com Puerto Rico
+ 
+#EXTINF: -1, Canal Cadena de Noticias http://www.elcaribecdn.com.do Rep.Dominicana
+ 
+#EXTINF: -1, Canal Color Visión http://www.colorvision.com.do Rep. Dominicana
+ 
+#EXTINF: -1, Canal Televisiete http://www.canal7.com.gt Guatemala
+ 
+#EXTINF: -1, Canal Vica Televisión http://www.vicatv.hn Honduras
+ 
+#EXTINF: -1, Canal Televicentro Canal 2 http://www.canal2.com.ni Nicaragua
+ 
+#EXTINF: -1, Canal Cubavisión http://www.cubavision.cubaweb.cu Cuba
+ 
+#EXTINF: -1, Canal Canal Once http://oncetv-ipn.net México
+ 
+#EXTINF: -1, Canal CNI http://www.cni.tv México
+ 
+#EXTINF: -1, Canal Canal 52 http://www.canal52.com.mx México
+ 
+#EXTINF: -1, Canal EDUSAT http://edusat.ilce.edu.mx México
+ 
+#EXTINF: -1, Canal RTV http://www.rtv.org.mx México
+ 
+#EXTINF: -1, Canal TRC http://www.trc.campeche.gob.mx México
+ 
+#EXTINF: -1, Canal Televisa http://www.televisa.com México
+ 
+#EXTINF: -1, Canal TV Azteca http://tvazteca.com.mx México
+ 
+#EXTINF: -1, Canal TV UNAM http://www.unam.mx/tvunam México
+ 
+#EXTINF: -1, Canal HTV http://www.htv.com EE.UU.
+ 
+#EXTINF: -1, Canal Univisión http://www.univision.com EE.UU.
+ 
+#EXTINF: -1, Canal ABC http://abc.go.com EE.UU.
+ 
+#EXTINF: -1, Canal CBS http://www.cbs.com EE.UU.
+ 
+#EXTINF: -1, Canal Discovery Channel http://www.discovery.com EE.UU.
+ 
+#EXTINF: -1, Canal National Geographic http://www.nationalgeographic.com EE.UU.
+ 
+#EXTINF: -1, Canal TNT http://www.tnt.tv EE.UU.
+ 
+#EXTINF: -1, Canal USA Network http://www.usanetwork.com EE.UU.
+ 
+#EXTINF: -1, Canal The Weather Channel http://www.weather.com EE.UU.
+ 
+#EXTINF: -1, Canal ESPN http://espn.go.com EE.UU.
+ 
+#EXTINF: -1, Canal CNBC http://moneycentral.msn.com EE.UU.
+ 
+#EXTINF: -1, Canal CNN http://www.cnn.com EE.UU.
+ 
+#EXTINF: -1, Canal FOX http://www.mundofox.com EE.UU.
+ 
+#EXTINF: -1, Canal MTV http://www.mtv.com EE.UU.
+ 
+#EXTINF: -1, Canal MTV Latinoamérica http://www.mtvla.com EE.UU.
+ 
+ 
+#EXTINF: -1, Canal NBC http://www.nbc.com EE.UU.
+ 
+#EXTINF: -1, Canal Martí Noticias http://www.martinoticias.com EE.UU.
+ 
+#EXTINF: -1, Canal Canal France International http://www.cfi.fr Francia
+ 
+#EXTINF: -1, Canal TV 5 http://www.tv5.org Francia
+ 
+#EXTINF: -1, Canal Réseau France Outre-Mer http://www.rfo.fr Francia
+ 
+#EXTINF: -1, Canal Arte http://www.arte-tv.com Francia
+ 
+#EXTINF: -1, Canal DSF http://www.dsf.de Alemania
+ 
+#EXTINF: -1, Canal RTL http://www.rtl.de Alemania
+ 
+#EXTINF: -1, Canal 
+#EXTINF: -1, Canal 
+#EXTINF: -1, Canal ARD http://www.ard.de Alemania
+ 
+#EXTINF: -1, Canal DasErste http://www.daserste.de Alemania
+ 
+#EXTINF: -1, Canal Bayerischen Rundfunks http://www.br-online.de Alemania
+ 
+#EXTINF: -1, Canal Sport 1 http://www.sport1.de Alemania
+ 
+#EXTINF: -1, Canal MDR http://www.mdr.de/tv Alemania
+ 
+#EXTINF: -1, Canal MTV http://www.mtv.de Alemania
+ 
+#EXTINF: -1, Canal Kinder Kanal http://www.kika.de Alemania
+ 
+#EXTINF: -1, Canal Sat 1 http://www.sat1.de Alemania
+ 
+#EXTINF: -1, Canal VOX http://www.vox.de Alemania
+ 
+#EXTINF: -1, Canal ZDF http://www.zdf.de Alemania
+ 
+#EXTINF: -1, Canal DR TV http://www.dr.dk/tv Dinamarca
+ 
+#EXTINF: -1, Canal Barcelona Televisió http://www.barcelonatv.com España
+ 
+#EXTINF: -1, Canal Telemadrid http://www.telemadrid.com España
+ 
+#EXTINF: -1, Canal Canal Plus http://www.plus.es España
+ 
+#EXTINF: -1, Canal Antena 3 http://www.antena3tv.com España
+ 
+#EXTINF: -1, Canal Televisión Española http://www.rtve.es España
+ 
+#EXTINF: -1, Canal Telecinco http://www.telecinco.es España
+ 
+#EXTINF: -1, Canal Televisió de Catalunya http://www.tvcatalunya.com España
+ 
+#EXTINF: -1, Canal Canal Plus http://www.cplus.fr Francia
+ 
+#EXTINF: -1, Canal France 2 http://www.france2.fr Francia
+ 
+#EXTINF: -1, Canal France 3 http://www.france3.fr Francia
+ 
+#EXTINF: -1, Canal France 5 http://www.france5.fr Francia
+ 
+#EXTINF: -1, Canal France Télévisions http://www.francetelevisions.fr Francia
+ 
+#EXTINF: -1, Canal TF1 http://www.tf1.fr Francia
+ 
+#EXTINF: -1, Canal BBC http://www.bbc.co.uk/tv Reino Unido
+ 
+#EXTINF: -1, Canal Channel 4 http://www.channel4.com Reino Unido
+ 
+#EXTINF: -1, Canal Channel Television http://www.channeltv.co.uk Reino Unido
+ 
+#EXTINF: -1, Canal ITV http://www.itv.com Reino Unido
+ 
+#EXTINF: -1, Canal SKY http://www.sky.com Reino Unido
+ 
+#EXTINF: -1, Canal Omroep http://portal.omroep.nl Holanda
+ 
+#EXTINF: -1, Canal RTE http://www.rte.ie Irlanda
+ 
+#EXTINF: -1, Canal Media Set On-line http://www.mediasetonline.com Italia
+ 
+#EXTINF: -1, Canal TG 3 http://www.tg3.rai.it Italia
+ 
+#EXTINF: -1, Canal RAI http://www.rai.it/tv Italia
+ 
+#EXTINF: -1, Canal Rádio y Televisao de Portugal http://www.rtp.pt Portugal
+ 
+#EXTINF: -1, Canal Kanal 5 http://www.kanal5.se Suecia
+ 
+#EXTINF: -1, Canal Sveriges Telesion http://svt.se Suecia
+ 
+ 
+#EXTINF: -1, Canal TV4 http://www.tv4.se Suecia
+ 
+#EXTINF: -1, Canal ABC Television http://www.abc.net.au/tv Australia
+ 
+#EXTINF: -1, Canal Seven http://www.seven.com.au Australia
+ 
+#EXTINF: -1, Canal New Zeland Television http://tvnz.co.nz Nueva Zelanda
+ 
+#EXTINF: -1, Canal Channel Africa http://www.channelafrica.org Sudáfrica
+ 
+ 
+#EXTINF: -1, Canal SABC http://www.sabc.co.za Sudáfrica
+ 
+#EXTINF: -1, Canal CRTV http://www.crtv.cm Camerún
+ 
+#EXTINF: -1, Canal Channel News Asia http://www.channelnewsasia.com Singapur
+ 
+#EXTINF: -1, Canal CNBC Asia http://www.cnbcasia.com Singapur
+ 
+#EXTINF: -1, Canal A1 Plus Noticias http://www.a1plus.am Armenia
+ 
+#EXTINF: -1, Canal Armenia TV http://www.armeniatv.am Armenia
+ 
+#EXTINF: -1, Canal NDTV http://www.ndtv.com India
+ 
+#EXTINF: -1, Agencia de Noticias Canal República Islámica http://www.irna.ir Irán
+ 
+#EXTINF: -1, Canal Fuji News Network http://www.fnn-news.com/en Japón
+ 
+#EXTINF: -1, Canal KBS http://english.kbs.co.kr Korea del Sur
+ 
+#EXTINF: -1, Canal Pakistan Television http://www.ptv-news.com.pk Pakistán
+ 
+#EXTINF: -1, Canal Al Jazeera http://english.aljazeera.net	
+ 
+Pegar datos RAW
+#EXTM3U
+
+#EXTINF:-1 ,Canal  ecuavisa
+
+#EXTINF:-1 ,Canal Televisión Nacional de Chile	http://www.tvn.cl	Chile
+
+#EXTINF:-1 ,Canal Canal 13	http://www.canal13.cl	Chile
+
+#EXTINF:-1 ,Canal Chilevisión	http://www.chilevision.cl	Chile
+#EXTINF:-1 ,Canal Megavisión	http://www.megavision.cl	Chile
+#EXTINF:-1 ,Canal TVN Señal Internacional	http://www.tvchile.cl	Chile
+#EXTINF:-1 ,Canal UCV Televisión	http://www.ucvtv.cl	Chile
+#EXTINF:-1 ,Canal TV Senado	http://tv.senado.cl	Chile
+#EXTINF:-1 ,Canal ABT	http://www.abt.cl	Chile
+#EXTINF:-1 ,Canal Diputados Televisión	http://www.camara.cl/tv/tvmain.htm	Chile
+#EXTINF:-1 ,Canal TN 24 Horas	http://www.tn.com.ar	Argentina
+#EXTINF:-1 ,Canal Crónica	http://www.cronicatv.com.ar	Argentina
+#EXTINF:-1 ,Canal Canal 7	http://www.canal7argentina.com.ar	Argentina
+#EXTINF:-1 ,Canal América 	http://americatv.uolsinectis.com.ar	Argentina
+#EXTINF:-1 ,Canal TELEFE	http://www.telefe.com.ar	Argentina
+#EXTINF:-1 ,Canal Infinito	http://www.infinito.com	Argentina
+#EXTINF:-1 ,Canal Rosario 3	http://www.rosario3.com	Argentina
+#EXTINF:-1 ,Canal Canal 4 Monte Carlo	http://www.canal4.com.uy	Uruguay
+#EXTINF:-1 ,Canal Canal 10	http://www.canal10.com.uy	Uruguay
+#EXTINF:-1 ,Canal Teledoce	http://www.teledoce.com	Uruguay
+#EXTINF:-1 ,Canal RBS TV	http://www.clicrbs.com.br/rbstv	Brasil
+#EXTINF:-1 ,Canal Rede Globo de Televesao	http://www.redeglobo.globo.com	Brasil
+#EXTINF:-1 ,Canal Central Nacional de Televisao	http://www.cnt.com.br	Brasil
+#EXTINF:-1 ,Canal Rede TV	http://www.redetv.com.br	Brasil
+#EXTINF:-1 ,Canal Rede Record	http://www.rederecord.com.br	Brasil
+#EXTINF:-1 ,Canal Rede Mulher	http://www.redemulher.com.br	Brasil
+#EXTINF:-1 ,Canal Sistema Brasileiro de Televisao	http://www.sbt.com.br	Brasil
+#EXTINF:-1 ,Canal TV Bahía	http://tvbahia.ibahia.globo.com	Brasil
+#EXTINF:-1 ,Canal Colombiana de Televisión	http://www.coltevision.com	Colombia
+#EXTINF:-1 ,Canal RCN Televisión	http://www.canalrcn.com	Colombia
+#EXTINF:-1 ,Canal ETV Telerama	http://www.etvtelerama.com	Ecuador
+#EXTINF:-1 ,Canal Gamavisión	http://www.gamavision.com	Ecuador
+#EXTINF:-1 ,Canal Telefuturo	http://www.telefuturo.com.py	Paraguay
+#EXTINF:-1 ,Canal Canal 13	http://13.se.com.py/index2.php	Paraguay
+#EXTINF:-1 ,Canal América Televisión	http://www.americatv.com.pe	Perú
+#EXTINF:-1 ,Canal Andina TV	http://www.atv.com.pe	Perú
+#EXTINF:-1 ,Canal Frecuencia Latina	http://www.frecuencialatina.com.pe	Perú
+#EXTINF:-1 ,Canal Bolivisión	http://www.bolivisiontv.com	Bolivia
+#EXTINF:-1 ,Canal Red Unitel	http://www.unitel.tv	Bolivia
+#EXTINF:-1 ,Canal HBO - Olé	http://www.hbo-ole.com	Venezuela
+#EXTINF:-1 ,Canal Sony Entertainment Television	http://www.canalsony.com	Venezuela
+#EXTINF:-1 ,Canal Televen	http://www.televen.com	Venezuela
+#EXTINF:-1 ,Canal Venevisión	http://www.venevision.net	Venezuela
+#EXTINF:-1 ,Canal RCTV	http://www.rctv.net	Venezuela
+#EXTINF:-1 ,Canal Vale TV	http://www.valetv.com	Venezuela
+#EXTINF:-1 ,Canal Globovisión	http://www.globovision.com	Venezuela
+#EXTINF:-1 ,Canal Telecolor	http://www.telecolor.com	Venezuela
+#EXTINF:-1 ,Canal TRT	http://www.trt-tv.com	Venezuela
+#EXTINF:-1 ,Canal RPC TV	http://www.rpctv.com	Panamá
+#EXTINF:-1 ,Canal Telemetro	http://www.telemetro.com	Panamá
+#EXTINF:-1 ,Canal TVN Red 2	http://www.tvn-2.com	Panamá
+#EXTINF:-1 ,Canal FETV Canal 5	http://www.fetv.org	Panamá
+#EXTINF:-1 ,Canal Tu Universo Televisión	http://www.tutv.puertorico.pr	Puerto Rico
+#EXTINF:-1 ,Canal Televicentro	http://www.televicentropr.com	Puerto Rico
+#EXTINF:-1 ,Canal Cadena de Noticias	http://www.elcaribecdn.com.do	Rep. Dominicana
+#EXTINF:-1 ,Canal Color Visión	http://www.colorvision.com.do	Rep. Dominicana
+#EXTINF:-1 ,Canal Televisiete	http://www.canal7.com.gt	Guatemala
+#EXTINF:-1 ,Canal Vica Televisión	http://www.vicatv.hn	Honduras
+#EXTINF:-1 ,Canal Televicentro Canal 2	http://www.canal2.com.ni	Nicaragua
+#EXTINF:-1 ,Canal Cubavisión	http://www.cubavision.cubaweb.cu	Cuba
+#EXTINF:-1 ,Canal Canal Once	http://oncetv-ipn.net	México
+#EXTINF:-1 ,Canal CNI	http://www.cni.tv	México
+#EXTINF:-1 ,Canal Canal 52	http://www.canal52.com.mx	México
+#EXTINF:-1 ,Canal EDUSAT	http://edusat.ilce.edu.mx	México
+#EXTINF:-1 ,Canal RTV	http://www.rtv.org.mx	México
+#EXTINF:-1 ,Canal TRC	http://www.trc.campeche.gob.mx	México
+#EXTINF:-1 ,Canal Televisa	http://www.televisa.com	México
+#EXTINF:-1 ,Canal TV Azteca	http://tvazteca.com.mx	México
+#EXTINF:-1 ,Canal TV UNAM	http://www.unam.mx/tvunam	México
+#EXTINF:-1 ,Canal HTV	http://www.htv.com	EE.UU.
+#EXTINF:-1 ,Canal Univisión	http://www.univision.com	EE.UU.
+#EXTINF:-1 ,Canal ABC	http://abc.go.com	EE.UU.
+#EXTINF:-1 ,Canal CBS	http://www.cbs.com	EE.UU.
+#EXTINF:-1 ,Canal Discovery Channel	http://www.discovery.com	EE.UU.
+#EXTINF:-1 ,Canal National Geographic	http://www.nationalgeographic.com	EE.UU.
+#EXTINF:-1 ,Canal TNT	http://www.tnt.tv	EE.UU.
+#EXTINF:-1 ,Canal USA Network	http://www.usanetwork.com	EE.UU.
+#EXTINF:-1 ,Canal The Weather Channel	http://www.weather.com	EE.UU.
+#EXTINF:-1 ,Canal ESPN	http://espn.go.com	EE.UU.
+#EXTINF:-1 ,Canal CNBC	http://moneycentral.msn.com	EE.UU.
+#EXTINF:-1 ,Canal CNN	http://www.cnn.com	EE.UU.
+#EXTINF:-1 ,Canal FOX	http://www.mundofox.com	EE.UU.
+#EXTINF:-1 ,Canal MTV	http://www.mtv.com	EE.UU.
+#EXTINF:-1 ,Canal MTV Latinoamérica	http://www.mtvla.com	EE.UU.
+#EXTINF:-1 ,Canal NBC	http://www.nbc.com	EE.UU.
+#EXTINF:-1 ,Canal Martí Noticias	http://www.martinoticias.com	EE.UU.
+#EXTINF:-1 ,Canal Canal France International	http://www.cfi.fr	Francia
+#EXTINF:-1 ,Canal TV 5	http://www.tv5.org	Francia
+#EXTINF:-1 ,Canal Réseau France Outre-Mer	http://www.rfo.fr	Francia
+#EXTINF:-1 ,Canal Arte	http://www.arte-tv.com	Francia
+#EXTINF:-1 ,Canal DSF	http://www.dsf.de	Alemania
+#EXTINF:-1 ,Canal RTL	http://www.rtl.de	Alemani
+#EXTINF:-1 ,Canal ARD	http://www.ard.de	Alemania
+#EXTINF:-1 ,Canal DasErste	http://www.daserste.de	Alemania
+#EXTINF:-1 ,Canal Bayerischen Rundfunks	http://www.br-online.de	Alemania
+#EXTINF:-1 ,Canal Sport 1	http://www.sport1.de	Alemania
+#EXTINF:-1 ,Canal MDR	http://www.mdr.de/tv	Alemania
+#EXTINF:-1 ,Canal MTV	http://www.mtv.de	Alemania
+#EXTINF:-1 ,Canal Kinder Kanal	http://www.kika.de	Alemania
+#EXTINF:-1 ,Canal Sat 1	http://www.sat1.de	Alemania
+#EXTINF:-1 ,Canal VOX	http://www.vox.de	Alemania
+#EXTINF:-1 ,Canal ZDF	http://www.zdf.de	Alemania
+#EXTINF:-1 ,Canal DR TV	http://www.dr.dk/tv	Dinamarca
+#EXTINF:-1 ,Canal Barcelona Televisió	http://www.barcelonatv.com	España
+#EXTINF:-1 ,Canal Telemadrid	http://www.telemadrid.com	España
+#EXTINF:-1 ,Canal Canal Plus	http://www.plus.es	España
+#EXTINF:-1 ,Canal Antena 3	http://www.antena3tv.com	España
+#EXTINF:-1 ,Canal Televisión Española	http://www.rtve.es	España
+#EXTINF:-1 ,Canal Telecinco	http://www.telecinco.es	España
+#EXTINF:-1 ,Canal Televisió de Catalunya	http://www.tvcatalunya.com	España
+#EXTINF:-1 ,Canal Canal Plus	http://www.cplus.fr	Francia
+#EXTINF:-1 ,Canal France 2	http://www.france2.fr	Francia
+#EXTINF:-1 ,Canal France 3	http://www.france3.fr	Francia
+#EXTINF:-1 ,Canal France 5	http://www.france5.fr	Francia
+#EXTINF:-1 ,Canal France Télévisions	http://www.francetelevisions.fr	Francia
+#EXTINF:-1 ,Canal TF1	http://www.tf1.fr	Francia
+#EXTINF:-1 ,Canal BBC	http://www.bbc.co.uk/tv	Reino Unido
+#EXTINF:-1 ,Canal Channel 4	http://www.channel4.com	Reino Unido
+#EXTINF:-1 ,Canal Channel Television	http://www.channeltv.co.uk	Reino Unido
+#EXTINF:-1 ,Canal ITV	http://www.itv.com	Reino Unido
+#EXTINF:-1 ,Canal SKY	http://www.sky.com	Reino Unido
+#EXTINF:-1 ,Canal Omroep	http://portal.omroep.nl	Holanda
+#EXTINF:-1 ,Canal RTE	http://www.rte.ie	Irlanda
+#EXTINF:-1 ,Canal Media Set On-line	http://www.mediasetonline.com	Italia
+#EXTINF:-1 ,Canal TG 3	http://www.tg3.rai.it	Italia
+#EXTINF:-1 ,Canal RAI	http://www.rai.it/tv	Italia
+#EXTINF:-1 ,Canal Rádio e Televisao de Portugal	http://www.rtp.pt	Portugal
+#EXTINF:-1 ,Canal Kanal 5	http://www.kanal5.se	Suecia
+#EXTINF:-1 ,Canal Sveriges Telesion	http://svt.se	Suecia
+#EXTINF:-1 ,Canal TV4	http://www.tv4.se	Suecia
+
+#EXTINF:-1 ,Canal ABC Television	http://www.abc.net.au/tv	Australia
+
+#EXTINF:-1 ,Canal Seven	http://www.seven.com.au	Australia
+
+#EXTINF:-1 ,Canal New Zeland Television	http://tvnz.co.nz	Nueva Zelanda
+
+#EXTINF:-1 ,Canal Channel Africa	http://www.channelafrica.org	Sudáfrica
+
+
+#EXTINF:-1 ,Canal SABC	http://www.sabc.co.za	Sudáfrica
+
+#EXTINF:-1 ,Canal CRTV	http://www.crtv.cm	Camerún
+
+#EXTINF:-1 ,Canal Channel News Asia	http://www.channelnewsasia.com	Singapur
+
+#EXTINF:-1 ,Canal CNBC Asia	http://www.cnbcasia.com	Singapur
+
+#EXTINF:-1 ,Canal A1 Plus News	http://www.a1plus.am	Armenia
+
+#EXTINF:-1 ,Canal Armenia TV	http://www.armeniatv.am	Armenia
+
+#EXTINF:-1 ,Canal NDTV	http://www.ndtv.com	India
+#EXTINF:-1 ,Canal Islamic Republic News Agency	http://www.irna.ir	Irán
+#EXTINF:-1 ,Canal Fuji News Network	http://www.fnn-news.com/en	Japón
+#EXTINF:-1 ,Canal KBS	http://english.kbs.co.kr	Korea del Sur
+#EXTINF:-1 ,Canal Pakistan Television	http://www.ptv-news.com.pk	Pakistán
+#EXTINF:-1 ,Canal Al Jazeera	http://english.aljazeera.net	
+
+
